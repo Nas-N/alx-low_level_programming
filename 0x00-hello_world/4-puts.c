@@ -1,8 +1,7 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - 0 after printing the function
  *
  * Return: Always 0 (Success)
  */
